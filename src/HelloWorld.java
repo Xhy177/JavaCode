@@ -1,6 +1,6 @@
 class Car {
     String color = "red";
-    int num = 4;
+    int num = 123456;
     void show() {
         System.out.println("color=" + color + ",num=" + num);
     }
